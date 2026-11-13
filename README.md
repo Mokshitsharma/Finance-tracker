@@ -1,3 +1,21 @@
+<!-- readme-refresh 2026-11 -->
+<div align="center">
+
+# 💰 Finance Tracker
+
+**A command-line income and expense log**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+</div>
+
+## ✨ Highlights
+
+- Log income and expenses
+- Running summary
+- Python standard library only
+
+<!-- body -->
 Here is a README file for the personal finance tracker project on GitHub:
 
 ***
@@ -125,3 +143,7 @@ This project is open-source under the MIT License.
 ***
 
 This README clearly explains the purpose, usage, and functionality of your finance tracker script. Let me know if any additions are wanted!
+
+---
+
+<div align="center"><sub>Built by <a href="https://github.com/Mokshitsharma">Mokshit Sharma</a> · <a href="https://mokshitsharma27.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/mokshit-sharma-75b5ab305">LinkedIn</a></sub></div>
